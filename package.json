@@ -1,0 +1,19 @@
+{
+  "name": "@wezoa/sounds",
+  "version": "1.0.0",
+  "description": "Wezoa sounds",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sht",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduardosht/wezoa-souds.git"
+  },
+  "bugs": {
+    "url": "https://github.com/eduardosht/wezoa-souds/issues"
+  },
+  "homepage": "https://github.com/eduardosht/wezoa-souds#readme"
+}
